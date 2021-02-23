@@ -224,6 +224,8 @@ Jobs
     display: grid;
     grid-template-columns: 200px 1fr;
     column-gap: 4rem;
+    text-align: start;
+    margin-top: 50px;
   }
   .btn-container {
     flex-direction: column;
