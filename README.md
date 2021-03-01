@@ -33,7 +33,7 @@
 
 #### useContext
 
-12. Modal And Sidebar
+12. Modal And Sidebar (complete)
 13. Stripe Submenus
 
 #### useReducer and useContext
