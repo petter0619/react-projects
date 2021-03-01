@@ -25,11 +25,11 @@
 
 8. Lorem Ipsum Generator (complete)
 9. Color Shades Generator (complete)
-10. Grocery Bud
+10. Grocery Bud (complete)
 
 #### useRef
 
-11. Navbar
+11. Navbar (complete)
 
 #### useContext
 
